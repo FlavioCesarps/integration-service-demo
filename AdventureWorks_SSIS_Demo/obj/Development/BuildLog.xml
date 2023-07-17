@@ -2,7 +2,7 @@
 <BuildLog xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ProjectInfo>
     <Name>AdventureWorks_SSIS_Demo</Name>
-    <LastWriteTime>2023-07-17T17:46:14.4799224Z</LastWriteTime>
+    <LastWriteTime>2023-07-17T18:56:13.39617Z</LastWriteTime>
     <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
   </ProjectInfo>
   <LastBuildInfos>
@@ -19,6 +19,11 @@
     <ProjectBuildItemInfo>
       <Name>Demo Aggregate y Sort.dtsx</Name>
       <LastWriteTime>2023-07-17T17:46:14.4427201Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>Demo Merge Join.dtsx</Name>
+      <LastWriteTime>2023-07-17T18:56:13.3638172Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
   </LastBuildInfos>
